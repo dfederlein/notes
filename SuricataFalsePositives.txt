@@ -1,0 +1,46 @@
+SURICATA DNS Unsolicited response 
+SURICATA FRAG IPv4 Fragmentation overlap
+SURICATA HTTP METHOD terminated by non-compliant character 
+SURICATA HTTP request field missing colon 
+SURICATA HTTP unable to match response to request
+SURICATA HTTP URI terminated by non-compliant character 
+SURICATA ICMPv4 invalid checksum 
+SURICATA IPv4 invalid checksum 
+SURICATA STREAM 3way handshake excessive different SYN/ACKs 
+SURICATA STREAM 3way handshake SYNACK to server on SYN recv 
+SURICATA STREAM 3way handshake SYNACK with wrong ack 
+SURICATA STREAM 3way handshake wrong seq wrong ack 
+SURICATA STREAM bad window update 
+SURICATA STREAM CLOSEWAIT FIN out of window 
+SURICATA STREAM ESTABLISHED invalid ack
+SURICATA STREAM ESTABLISHED packet out of window 
+SURICATA STREAM ESTABLISHED SYNACK resend 
+SURICATA STREAM ESTABLISHED SYNACK resend with different ACK
+SURICATA STREAM ESTABLISHED SYNACK resend with different seq 
+SURICATA STREAM ESTABLISHED SYN resend
+SURICATA STREAM ESTABLISHED SYN resend with different seq 
+SURICATA STREAM excessive retransmissions 
+SURICATA STREAM FIN1 FIN with wrong seq
+SURICATA STREAM FIN1 invalid ack
+SURICATA STREAM FIN2 FIN with wrong seq 
+SURICATA STREAM FIN invalid ack 
+SURICATA STREAM FIN out of window 
+SURICATA STREAM Last ACK with wrong seq 
+SURICATA STREAM Packet with invalid ack 
+SURICATA STREAM Packet with invalid timestamp
+SURICATA STREAM reassembly overlap with different data 
+SURICATA STREAM SHUTDOWN RST invalid ack 
+SURICATA STREAM suspected RST injection 
+SURICATA STREAM TIMEWAIT ACK with wrong seq 
+SURICATA TCP option invalid length 
+SURICATA TCPv4 invalid checksum
+SURICATA TLS error message encountered 
+SURICATA TLS invalid certificate 
+SURICATA TLS invalid handshake message 
+SURICATA TLS invalid record/traffic
+SURICATA TLS invalid record version
+SURICATA TLS multiple SNI extensions 
+SURICATA UDP invalid header length
+SURICATA UDP packet too small
+SURICATA UDPv4 invalid checksum
+SURICATA zero length padN option 
