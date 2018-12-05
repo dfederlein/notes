@@ -33,6 +33,7 @@ SURICATA STREAM SHUTDOWN RST invalid ack
 SURICATA STREAM suspected RST injection 
 SURICATA STREAM TIMEWAIT ACK with wrong seq 
 SURICATA TCP option invalid length 
+SURICATA TCP invalid option length
 SURICATA TCPv4 invalid checksum
 SURICATA TLS error message encountered 
 SURICATA TLS invalid certificate 
