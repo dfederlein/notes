@@ -47,3 +47,4 @@ SURICATA UDP packet too small
 SURICATA UDPv4 invalid checksum
 SURICATA zero length padN option 
 SURICATA TCP header length too small
+SURICATA STREAM CLOSEWAIT ACK out of window
