@@ -1,3 +1,4 @@
+SURICATA data after none (59) header
 SURICATA DNS Unsolicited response 
 SURICATA FRAG IPv4 Fragmentation overlap
 SURICATA HTTP METHOD terminated by non-compliant character 
