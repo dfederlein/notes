@@ -1,3 +1,9 @@
+SURICATA IKEv2 weak cryptographic parameters (Diffie-Hellman)
+SURICATA IKEv2 weak cryptographic parameters (Auth)
+SURICATA IKEv2 weak cryptographic parameters (PRF)
+SURICATA Applayer Unexpected protocol
+SURICATA Applayer Detect protocol only one direction
+SURICATA Applayer No TLS after STARTTLS
 SURICATA data after none (59) header
 SURICATA DNS Unsolicited response 
 SURICATA FRAG IPv4 Fragmentation overlap
@@ -35,6 +41,7 @@ SURICATA STREAM SHUTDOWN RST invalid ack
 SURICATA STREAM suspected RST injection 
 SURICATA STREAM TIMEWAIT ACK with wrong seq 
 SURICATA TCP option invalid length 
+SURICATA TCP header length too small
 SURICATA TCP invalid option length
 SURICATA TCPv4 invalid checksum
 SURICATA TLS error message encountered 
@@ -47,5 +54,4 @@ SURICATA UDP invalid header length
 SURICATA UDP packet too small
 SURICATA UDPv4 invalid checksum
 SURICATA zero length padN option 
-SURICATA TCP header length too small
 SURICATA STREAM CLOSEWAIT ACK out of window
