@@ -1,6 +1,7 @@
 SURICATA IKEv2 weak cryptographic parameters (Diffie-Hellman)
 SURICATA IKEv2 weak cryptographic parameters (Auth)
 SURICATA IKEv2 weak cryptographic parameters (PRF)
+SURICATA Applayer Wrong direction first Data
 SURICATA Applayer Unexpected protocol
 SURICATA Applayer Detect protocol only one direction
 SURICATA Applayer No TLS after STARTTLS
