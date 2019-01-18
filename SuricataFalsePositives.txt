@@ -34,6 +34,7 @@ SURICATA STREAM FIN1 FIN with wrong seq
 SURICATA STREAM FIN1 invalid ack
 SURICATA STREAM FIN2 FIN with wrong seq 
 SURICATA STREAM FIN invalid ack 
+SURICATA STREAM FIN2 invalid ack
 SURICATA STREAM FIN out of window 
 SURICATA STREAM Last ACK with wrong seq 
 SURICATA STREAM Packet with invalid ack 
