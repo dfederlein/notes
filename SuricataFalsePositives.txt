@@ -14,6 +14,7 @@ SURICATA HTTP request field missing colon
 SURICATA HTTP unable to match response to request
 SURICATA HTTP URI terminated by non-compliant character 
 SURICATA HTTP Request abnormal Content-Encoding header
+SURICATA HTTP multipart generic error
 SURICATA ICMPv4 invalid checksum 
 SURICATA IPv4 invalid checksum 
 SURICATA STREAM 3way handshake excessive different SYN/ACKs 
