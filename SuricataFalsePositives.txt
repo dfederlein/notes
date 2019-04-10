@@ -23,6 +23,7 @@ SURICATA STREAM 3way handshake SYNACK with wrong ack
 SURICATA STREAM 3way handshake wrong seq wrong ack 
 SURICATA STREAM bad window update 
 SURICATA STREAM CLOSEWAIT FIN out of window 
+SURICATA STREAM CLOSEWAIT invalid ACK
 SURICATA STREAM ESTABLISHED invalid ack
 SURICATA STREAM ESTABLISHED packet out of window 
 SURICATA STREAM ESTABLISHED SYNACK resend 
@@ -38,7 +39,8 @@ SURICATA STREAM FIN2 FIN with wrong seq
 SURICATA STREAM FIN invalid ack 
 SURICATA STREAM FIN2 invalid ack
 SURICATA STREAM FIN out of window 
-SURICATA STREAM Last ACK with wrong seq 
+SURICATA STREAM Last ACK with wrong seq
+SURICATA STREAM Last ACK invalid ACK
 SURICATA STREAM Packet with invalid ack 
 SURICATA STREAM Packet with invalid timestamp
 SURICATA STREAM reassembly overlap with different data 
@@ -61,4 +63,4 @@ SURICATA UDP packet too small
 SURICATA UDPv4 invalid checksum
 SURICATA zero length padN option 
 SURICATA STREAM CLOSEWAIT ACK out of window
-SURICATA Applayer Protocol detection skipped								       
+SURICATA Applayer Protocol detection skipped 
