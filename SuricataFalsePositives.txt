@@ -17,6 +17,7 @@ SURICATA HTTP Request abnormal Content-Encoding header
 SURICATA HTTP multipart generic error
 SURICATA HTTP missing Host header
 SURICATA ICMPv4 invalid checksum 
+SURICATA HTTP request header invalid
 SURICATA IPv4 invalid checksum 
 SURICATA STREAM 3way handshake excessive different SYN/ACKs 
 SURICATA STREAM 3way handshake SYNACK to server on SYN recv 
