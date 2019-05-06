@@ -16,6 +16,7 @@ SURICATA HTTP URI terminated by non-compliant character
 SURICATA HTTP Request abnormal Content-Encoding header
 SURICATA HTTP multipart generic error
 SURICATA HTTP missing Host header
+SURICATA HTTP Request line with leading whitespace
 SURICATA ICMPv4 invalid checksum 
 SURICATA HTTP request header invalid
 SURICATA IPv4 invalid checksum 
