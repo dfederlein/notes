@@ -57,6 +57,7 @@ SURICATA TCPv4 invalid checksum
 SURICATA TLS error message encountered 
 SURICATA TLS invalid certificate 
 SURICATA TLS invalid handshake message 
+SURICATA TLS handshake invalid length
 SURICATA TLS invalid record/traffic
 SURICATA TLS invalid record version
 SURICATA TLS multiple SNI extensions 
