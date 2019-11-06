@@ -16,10 +16,11 @@ SURICATA HTTP URI terminated by non-compliant character
 SURICATA HTTP Request abnormal Content-Encoding header
 SURICATA HTTP multipart generic error
 SURICATA HTTP missing Host header
+SURICATA HTTP request header invalid
 SURICATA HTTP Request line with leading whitespace
 SURICATA HTTP Unexpected Request body
+SURICATA HTTP invalid request field folding
 SURICATA ICMPv4 invalid checksum 
-SURICATA HTTP request header invalid
 SURICATA IPv4 invalid checksum 
 SURICATA STREAM 3way handshake SYN to client on SYN recv
 SURICATA STREAM 3way handshake excessive different SYN/ACKs 
