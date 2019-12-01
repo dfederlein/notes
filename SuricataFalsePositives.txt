@@ -29,6 +29,7 @@ SURICATA STREAM 3way handshake SYNACK with wrong ack
 SURICATA STREAM 3way handshake wrong seq wrong ack 
 SURICATA STREAM bad window update 
 SURICATA STREAM CLOSEWAIT FIN out of window 
+SURICATA STREAM FIN1 ack with wrong seq
 SURICATA STREAM CLOSEWAIT invalid ACK
 SURICATA STREAM ESTABLISHED invalid ack
 SURICATA STREAM ESTABLISHED packet out of window 
