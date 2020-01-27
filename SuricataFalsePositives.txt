@@ -75,3 +75,4 @@ SURICATA UDPv4 invalid checksum
 SURICATA zero length padN option 
 SURICATA STREAM CLOSEWAIT ACK out of window
 SURICATA Applayer Protocol detection skipped 
+SURICATA ET DNS Query for .to TLD
