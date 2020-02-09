@@ -69,6 +69,7 @@ SURICATA TLS handshake invalid length
 SURICATA TLS invalid record/traffic
 SURICATA TLS invalid record version
 SURICATA TLS multiple SNI extensions 
+SURICATA TLS invalid heartbeat encountered, possible exploit attempt (heartbleed)
 SURICATA UDP invalid header length
 SURICATA UDP packet too small
 SURICATA UDPv4 invalid checksum
