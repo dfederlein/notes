@@ -77,3 +77,8 @@ SURICATA zero length padN option
 SURICATA STREAM CLOSEWAIT ACK out of window
 SURICATA Applayer Protocol detection skipped 
 SURICATA ET DNS Query for .to TLD
+ET DNS Query for .cc TLD
+ET DNS Query to a .tk domain - Likely Hostile
+ET DNS Query to a *.pw domain - Likely Hostile
+INDICATOR-COMPROMISE Suspicious .tk dns query
+INDICATOR-COMPROMISE Suspicious .pw dns query
