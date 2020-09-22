@@ -49,3 +49,5 @@ SURICATA UDP invalid header length
 SURICATA UDP packet too small 
 
 SURICATA zero length padN option
+
+ET DNS DNS Lookup for localhost.DOMAIN.TLD
